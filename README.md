@@ -16,16 +16,16 @@
 <!--  what is it? for what ? and how??  -->
 ## General Information
 
-- this is an app that help users visualize their day-to-day stress level.
+- This is an app that helps users visualize their day-to-day stress level.
 
 - It allows users to capture how stressed they are at the moment, and then objectively see the data in a simple chart. 
 
 > What is the purpose of the project?
-- the purpose of this android application is to let users keep track of their stress level to help them navigate through their difficult time. it also allows users to see the stress levels in a intuitive bar chart to help them visualize their inner state. Because visualizing their inner state helps them to understand themselves, therfore they can take more appropriete actions.
+- The purpose of this android application is to let users keep track of their stress level to help them navigate through their difficult time. it also allows users to see the stress levels in a intuitive bar chart to help them visualize their inner state. Because visualizing their inner state helps them to understand themselves, therfore they can take more appropriete actions.
 
 ## Features
-- lets users choose from 48 pictures that each represent a different stress level.
-- visualize the stress data in order for users to intuitively understand their inner state.
+- Lets users choose from 48 pictures that each represent a different stress level.
+- Visualize the stress data in order for users to intuitively understand their inner state.
 - Very easy to use & completely ad-free app
 
 
@@ -57,7 +57,7 @@ Project is: _in progress_
 
 Room for improvement:
 
-- the UI is a bit slow -> need to use multi-threading design to make it smooth
+- The UI is a bit slow -> need to use multi-threading design to make it smooth
 
 
 
