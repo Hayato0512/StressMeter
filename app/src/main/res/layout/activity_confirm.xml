@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Confirmation page"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        tools:layout_editor_absoluteX="147dp"-->
+<!--        tools:layout_editor_absoluteY="320dp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/data_text"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        android:text="Confirmation page"-->
+<!--        tools:layout_editor_absoluteX="147dp"-->
+<!--        tools:layout_editor_absoluteY="320dp"-->
+<!--       android:layout_alignBottom="@+id/fetched_image"-->
+<!--        />-->
+
+
+    <ImageView
+        android:id="@+id/fetched_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_gravity = "center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2"
+        android:layout_marginBottom="90dp"
+        >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="cancel"
+            android:layout_weight="1"
+            android:id="@+id/cancelButton"/>
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_weight="1"
+            />
+
+
+    </LinearLayout>
+</RelativeLayout>
