@@ -57,13 +57,15 @@ Project is: _in progress_
 ## Room for Improvement
 
 Room for improvement:
-- show exercise histories in a chart to let user see their fitness routine more easily
-- use multi-thread design to make UI smoother.
+
+- the UI is a bit slow -> need to use multi-threading design to make it smooth
+- 
+
 
 
 ## Acknowledgements
 
-- This project was inspired by...
+
 - This project was a part of the assignments from CMPT362(Android Mobile Applications Programming and Design) in Simon Fraser University, BC, Canada 
 - Many thanks to... the professor XingDong Yang at SFU
 
