@@ -18,6 +18,7 @@
 ## General Information
 
 - this is an app that help users visualize their day-to-day stress level.
+
 -It allows users to capture how stressed they are at the moment, and then objectively see the data in a simple chart. 
 
 - What is the purpose of your project?
