@@ -5,7 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
-* [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
