@@ -58,7 +58,6 @@ Project is: _in progress_
 Room for improvement:
 
 - the UI is a bit slow -> need to use multi-threading design to make it smooth
-- 
 
 
 
