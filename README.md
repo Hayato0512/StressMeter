@@ -31,17 +31,17 @@
 
 ## Screenshots
 
-ACTIVITY PAGE
-![Example screenshot1](./images/MRS1.png)
+MAIN PAGE
+![Example screenshot1](./images/SS1.png)
 
-HISTORY PAGE
-![Example screenshot1](./images/MRS2.png)
+CONFIRMATION PAGE
+![Example screenshot1](./images/SS2.png)
 
-DETAIL HISTORY PAGE
-![Example screenshot1](./images/MRS3.png)
+VISUAL CHART PAGE
+![Example screenshot1](./images/SS3.png)
 
-SETTING PAGE
-![Example screenshot1](./images/MRS4.png)
+MENU BAR
+![Example screenshot1](./images/SS4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
